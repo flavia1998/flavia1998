@@ -6,7 +6,7 @@
   
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=flavia1998&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=flavia1998&show_icons=true&theme=onedark"
     media="(prefers-color-scheme: light)"
   />
   <source
