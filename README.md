@@ -19,6 +19,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavia-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Flavia-Debin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" />
-  <img align="center" alt="Flavia-Debin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-               
+  <img align="center" alt="Flavia-Debin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />            
 </div>
+
+
