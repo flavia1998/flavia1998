@@ -18,8 +18,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavia-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Flavia-Debin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img align="center" alt="Flavia-Debin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />            
+  <img align="center" alt="Flavia-Ubuntu" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img align="center" alt="Flavia-Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Flavia-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />       
 </div>
 
 
