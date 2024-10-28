@@ -1,7 +1,6 @@
 ### Just a girl, looking for her way in the universe 🌌 
 
-- 🔭 I’m currently working on "Pushswap"
-- 🖥️ I’m currently learning C and C++
+- 🖥️ I’m currently learning JavaScript 
 - ⚡ Fun fact: I have a degree in Biomedical Laboratory Science 🩸
   
 <picture>
