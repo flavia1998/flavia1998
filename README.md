@@ -2,18 +2,6 @@
 
 - 🖥️ I’m currently learning JavaScript 
 - ⚡ Fun fact: I have a degree in Biomedical Laboratory Science 🩸
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=flavia1998&show_icons=true&theme=onedark"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=flavia1998&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: radial)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=flavia1998&show_icons=true" />
-</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavia-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
