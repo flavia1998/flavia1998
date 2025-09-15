@@ -10,10 +10,7 @@
   <img align="center" alt="Flavia-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
    <img align="center" alt="Flavia-Git" height="60" width="80" src= "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg"/>
    <img align="center" alt="Flavia-Git" height="60" width="80" src= "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg"/>
-  <img align="center" alt="Flavia-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
- <img align="center" alt="Flavia-C" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
  <img align="center" alt="Flavia-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
- <img align="center" alt="Flavia-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
  <img align="center" alt="Flavia-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />  
   
 </div>
